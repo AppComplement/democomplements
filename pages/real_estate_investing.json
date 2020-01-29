@@ -1,0 +1,62 @@
+{
+    "metadata": {
+        "version": "1.0.0"
+    },
+    "data":
+    {
+        "articles": [
+            {
+                "identifier": "real_estate_investing",
+                "title": "Real Estate Investing",
+                "sections": [
+                    {
+                        "identifier": "1",
+                        "type": "publishing",
+                        "header": {
+                            "identifier": "99",
+                            "type": "large_title_header",
+                            "title": "Real Estate Investing",
+                            "media": [],
+                        },
+                        "items": [
+                            {
+                                "identifier": "0",
+                                "type": "image",
+                                "subtype": "hero",
+                                "title": "This is title",
+                                "body": "body text",
+                                "utility": "Utility text",
+                                "media": [
+                                    {
+                                        "kind": "image",
+                                        "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                                    }
+                                ],
+                                "link": {
+                                    "target_type": "article",
+                                    "target_id": "1",
+                                }
+                            },
+                            {
+                                "identifier": "1",
+                                "type": "paragragh",
+                                "title": "Title text 1",
+                                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                                "utility": "Utility text 1",
+                                "media": []
+                            },
+                            {
+                                "identifier": "2",
+                                "type": "paragragh",
+                                "title": "Title text 1",
+                                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                                "utility": "Utility text 1",
+                                "media": []
+                            },
+                        ]
+                    },
+                ]
+            }
+        ]
+    }
+}

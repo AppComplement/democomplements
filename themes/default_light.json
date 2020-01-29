@@ -1,0 +1,93 @@
+{
+    "metadata": {
+        "version": "1.0.0"
+    },
+    "data":
+    {
+        "themes": [
+            {
+                "identifier": "default_light",
+                "values": {
+                    "global_primary_background_color": "ffffff",
+                    "global_secondary_background_color": "222222",
+                    "global_selected_background_color": "@global_highlighted_background_color",
+                    "global_highlighted_background_color": "eeeeee",
+                    
+                    "global_primary_text_color": "000000",
+                    "global_secondary_text_color": "555555",
+                    "global_action_text_color": "ff0000",
+                    
+                    "global_body_font_name": "Avenir-Light",
+                    "global_body_font_size": "14",
+                    
+                    "global_large_title_font_name": "Avenir-Heavy",
+                    "global_large_title_font_size": "24",
+                    
+                    "global_title1_font_name": "Avenir-Heavy",
+                    "global_title1_font_size": "20",
+                    
+                    "global_title2_font_name": "Avenir-Roman",
+                    "global_title2_font_size": "18",
+                    
+                    "global_subtitle_font_name": "Avenir-Roman",
+                    "global_subtitle_font_size": "16",
+                    
+                    "global_text_alignment": "leading",
+                    
+                    "page_primary_background_color": "@global_primary_background_color",
+                    "page_leading_spacing": "16",
+                    "page_trailing_spacing": "15",
+                    
+                    "component_leading_spacing": "@page_leading_spacing",
+                    "component_trailing_spacing": "@page_trailing_spacing",
+                    "component_top_spacing": "10",
+                    "component_bottom_spacing": "10",
+                    
+                    "header_component_top_spacing": "24",
+                    "header_component_subtitle_top_spacing": "0",
+                    
+                    "large_title_header_component_top_spacing": "24",
+                    "large_title_header_component_large_title_font_name": "Avenir-Light",
+                    "large_title_header_component_large_title_font_size": "28",
+                    "large_title_header_component_title_text_alignment": "center",
+                    
+                    "quote_component_large_title_font_name": "Avenir-Light",
+                    "quote_component_large_title_font_size": "28",
+                    "quote_component_title_text_alignment": "center",
+                    "quote_component_subtitle_text_alignment": "center",
+                    
+                    "paragraph_component_body_top_spacing": "10",
+                    "paragraph_component_title_text_alignment": "@global_text_alignment",
+                    "paragraph_component_body_text_alignment": "@global_text_alignment",
+                    
+                    "bullet_component_title_text_alignment": "@global_text_alignment",
+                    "bullet_component_body_leading_spacing": "10",
+                    "bullet_component_body_trailing_spacing": "@page_trailing_spacing",
+                    
+                    "image_component_image_corner_radius": "15",
+                    "image_component_utility_text_alignment": "center",
+                    "image_component_title_text_alignment": "center",
+                    "image_component_subtitle_text_alignment": "center",
+                    
+                    "hero_image_component_image_corner_radius": "0",
+                    "hero_image_component_leading_spacing": "0",
+                    "hero_image_component_trailing_spacing": "0",
+                    "hero_image_component_top_spacing": "0",
+                    "hero_image_component_bottom_spacing": "0",
+                    
+                    "image_title_list_component_image_corner_radius": "5",
+                    "image_title_list_component_title_leading_spacing": "10",
+                    "image_title_list_component_subtitle_top_spacing": "0",
+                    "image_title_list_component_image_border_width": "1",
+                    "image_title_list_component_image_primary_border_color": "000000",
+                    
+                    "carousel_section_leading_spacing": "@page_leading_spacing",
+                    "carousel_section_trailing_spacing": "@page_trailing_spacing",
+                    "carousel_section_top_spacing": "0",
+                    "carousel_section_bottom_spacing": "0",
+                    "carousel_section_horizontal_item_spacing": "10",
+                }
+            }
+        ]
+    }
+}

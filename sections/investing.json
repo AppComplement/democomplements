@@ -1,0 +1,77 @@
+{
+    "metadata": {
+        "version": "1.0.0"
+    },
+    "data":
+    {
+        "sections": [
+            {
+                "identifier": "investing",
+                "type": "list",
+                "header": {
+                    "identifier": "99",
+                    "type": "large_title_header",
+                    "title": "INVESTING",
+                    "media": [],
+                    "link": {
+                        "target_type": "article",
+                        "target_id": "about",
+                    }
+                },
+                "items": [
+                    {
+                        "identifier": "0",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Real Estate Investing",
+                        "body": "Image component body, making it long for two lines",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "real_estate_investing",
+                        }
+                    },
+                    {
+                        "identifier": "1",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Investing in stock market",
+                        "body": "Short body",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                    {
+                        "identifier": "3",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Crowdfunding investments in Real Estate",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                ]
+            },
+        ]
+    }
+}
+

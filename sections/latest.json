@@ -1,0 +1,242 @@
+{
+    "metadata": {
+        "version": "1.0.0"
+    },
+    "data":
+    {
+        "sections": [
+            {
+                "identifier": "latest",
+                "type": "list",
+                "header": {
+                    "identifier": "99",
+                    "type": "large_title_header",
+                    "title": "Latest Posts",
+                    "media": [],
+                    "link": {
+                        "target_type": "article",
+                        "target_id": "about",
+                    }
+                },
+                "items": [
+                    {
+                        "identifier": "0",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Make money on YouTube",
+                        "body": "Image component body",
+                        "utility": "YOUTUBE",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                    {
+                        "identifier": "2",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Make money with ZERO dollars",
+                        "body": "Image component body",
+                        "utility": "MONUMENT",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                    {
+                        "identifier": "3",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Flipping Apps to make money",
+                        "body": "Image component body",
+                        "utility": "CAFE",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                    {
+                        "identifier": "4",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Dropshipping to $10,000/m",
+                        "body": "Image component body",
+                        "utility": "ATTRACTION",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                    {
+                        "identifier": "0",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Make money on YouTube",
+                        "body": "Image component body",
+                        "utility": "YOUTUBE",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                    {
+                        "identifier": "2",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Make money with ZERO dollars",
+                        "body": "Image component body",
+                        "utility": "MONUMENT",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                    {
+                        "identifier": "3",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Flipping Apps to make money",
+                        "body": "Image component body",
+                        "utility": "CAFE",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                    {
+                        "identifier": "4",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Dropshipping to $10,000/m",
+                        "body": "Image component body",
+                        "utility": "ATTRACTION",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                    {
+                        "identifier": "0",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Make money on YouTube",
+                        "body": "Image component body",
+                        "utility": "YOUTUBE",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                    {
+                        "identifier": "2",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Make money with ZERO dollars",
+                        "body": "Image component body",
+                        "utility": "MONUMENT",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                    {
+                        "identifier": "3",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Flipping Apps to make money",
+                        "body": "Image component body",
+                        "utility": "CAFE",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                    {
+                        "identifier": "4",
+                        "type": "image",
+                        "subtype": "row",
+                        "title": "Dropshipping to $10,000/m",
+                        "body": "Image component body≥",
+                        "utility": "ATTRACTION",
+                        "media": [
+                            {
+                                "kind": "image",
+                                "url": "https://cdn.shopify.com/s/files/1/1667/5495/products/ak-47-men-s-t-shirt-4.jpg?v=1509675449"
+                            }
+                        ],
+                        "link": {
+                            "target_type": "article",
+                            "target_id": "about",
+                        }
+                    },
+                ]
+            },
+        ]
+    }
+}
